@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Christ+is+King+✝️;Computer+Science+Student;Competitive+Programmer;Electronics+%26+IoT+Enthusiast;Open+Source+Lover;Always+learning..!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Christ+is+King+✝️;Computer+Science+Student;Competitive+Programmer💻;Electronics+%26+IoT+Enthusiast📡;Open+Source+Lover❤️;Always+learning..🔬!">
   </a>
 </p>
 
@@ -17,10 +17,11 @@
 - 🔬 Me gusta experimentar con **electrónica, IoT y redes (Cisco/Huawei)**  
 - 🌱 Creo en construir cosas útiles y prácticas para la vida diaria  
 - 🧩 Fan de LEGO y de crear con las manos, no solo en código  
-- 🏋️‍♂️ Amante del powerlifting, disciplina dentro y fuera de la compu  
 - 🌍 Me gusta lo **open source** y contribuir cuando puedo  
 - 🚀 Trabajo actualmente en desarrollo de software (programación)  
-- 🏆 Programación competitiva en **LeetCode, Codeforces, ICPC y HackerRank**  
+- 🏆 Programación competitiva en **LeetCode, Codeforces, ICPC y HackerRank**
+- 🏋️‍♂️ Amante del powerlifting 
+  
 
 <br>
 
