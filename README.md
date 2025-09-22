@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Christ+is+King+✝️;Computer+Science+Student;Passionate+about+Programming;Electronics+and+IoT+Enthusiast;Building+AgroCore;Love+to+create+new+things..!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Christ+is+King+✝️;Computer+Science+Student;Passionate+about+Programming;Electronics+%26+IoT+Enthusiast;Open+Source+Lover;Love+to+create+useful+things..!">
   </a>
 </p>
 
@@ -14,9 +14,12 @@
 
 - 🎓 Estudiante de Tecnologías de la Información  
 - 💻 Apasionado de la programación y del aprendizaje constante  
-- 🔬 Me gusta experimentar con electrónica, IoT y proyectos prácticos  
-- 🌱 Creo en construir cosas útiles y para la vida diaria  
+- 🔬 Me gusta experimentar con **electrónica, IoT y redes (Cisco/Huawei)**  
+- 🌱 Creo en construir cosas útiles y prácticas para la vida diaria  
 - 🧩 Fan de LEGO y de crear con las manos, no solo en código  
+- 🏋️‍♂️ Amante del powerlifting, disciplina dentro y fuera de la compu  
+- 🌍 Me gusta lo **open source** y contribuir cuando puedo  
+- 🚀 Proyectos como y prototipos con Arduino y Raspberry Pi  
 
 <br><br>
 
@@ -33,6 +36,7 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <br>   
     
@@ -42,13 +46,16 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Open Source](https://img.shields.io/badge/Open%20Source-%23000000.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 <br>
 
-- **Electronics / IoT**:
+- **Electronics / IoT / Networks**:
 
     ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
     ![IoT](https://img.shields.io/badge/IoT-%23039BE5.svg?style=for-the-badge&logo=internet-of-things&logoColor=white)
+    ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+    ![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)
 
 </p>
 
