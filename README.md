@@ -14,7 +14,6 @@
 - 💻 Apasionado de la programación y el aprendizaje constante  
 - 🔬 Experimento con **electrónica, IoT y redes (Cisco/Huawei)**  
 - 🌱 Creo en construir cosas útiles y prácticas para la vida diaria  
-- 🧩 Fan de LEGO y de crear con las manos, no solo en código  
 - 🌍 Amante del **open source** y contribuidor ocasional  
 - 🚀 Trabajo actualmente en desarrollo de software (programación)  
 - 🏆 Competitivo en **LeetCode, Codeforces, ICPC y HackerRank**  
