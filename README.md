@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🎓 Student of **Information Technologies & Digital Business Engineering**
+- 🎓 Student of Information Technologies Engineering
 - 🏆 **ICPC Mexico 2025 National Finalist**
 - 🔧 Focused on systems architecture, algorithmic optimization, and full-stack development
 - 🔒 Passionate about systems security and end-to-end encrypted communications
