@@ -10,12 +10,12 @@
 
 ## About Me
 
--  Estudiante de **Ingeniería en Tecnologías de la Información**
--  **Finalista ICPC Mexico 2025**
--  Enfocado en arquitectura de sistemas, optimización algorítmica y desarrollo full-stack
--  Apasionado de la seguridad en sistemas y comunicaciones cifradas
--  Me interesan los modelos matemáticos aplicados a problemas reales
--  Creyente en el open source y en construir cosas precisas, resilientes y útiles
+- 🎓 Student of **Information Technologies & Digital Business Engineering**
+- 🏆 **ICPC Mexico 2025 National Finalist**
+- 🔧 Focused on systems architecture, algorithmic optimization, and full-stack development
+- 🔒 Passionate about systems security and end-to-end encrypted communications
+- 📐 Interested in mathematical models applied to real-world problems
+- 🌐 Believer in open source — building things that are precise, resilient, and useful
 
 ---
 
