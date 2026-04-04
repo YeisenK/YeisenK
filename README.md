@@ -12,10 +12,10 @@
 
 - 🎓 Student of Information Technologies Engineering
 - 🏆 **ICPC Mexico 2025 National Finalist**
-- 🔧 Focused on systems architecture, algorithmic optimization, and full-stack development
-- 🔒 Passionate about systems security and end-to-end encrypted communications
-- 📐 Interested in mathematical models applied to real-world problems
-- 🌐 Believer in open source — building things that are precise, resilient, and useful
+- Focused on systems architecture, algorithmic optimization, and full-stack development
+- Passionate about systems security and end-to-end encrypted communications
+- Interested in mathematical models applied to real-world problems
+- Believer in open source
 
 ---
 
